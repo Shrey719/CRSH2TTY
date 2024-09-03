@@ -5,7 +5,10 @@ CRSH2TTY is a universal unenrollment exploit found by [@kelpseastem](https://git
 3. [Installing custom FW and a different OS](Docs/customfw.md)
 ### Credits
 original discovery & testing - @kelpseastem
+
 idea for kuromuiroha - @Entrpix
+
 additional testing - @snappyshortpie 
+
 ### Original kajig
 \[kajig]
