@@ -2,7 +2,7 @@
 CRSH2TTY is a universal unenrollment exploit created by [@kelpseastem](https://github.com/kelpseastem) and [@kelpseastem](https://github.com/kelpseastem). Here are the docs for it.
 1. [Guide](Docs/guide.md)
 2. [Writeup (how I found this)](Docs/writeup.md)
-3. [Installing custom FW and a different OS](Docs/customfw.md)
+3. [What to do after unenrollment](postunroll.md)
 ### Credits
 original discovery & testing - [@kelpseastem](https://github.com/kelpseastem)
 

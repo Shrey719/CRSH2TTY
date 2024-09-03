@@ -1,5 +1,5 @@
 # Writeup 
 Someone once gave me ~5 various octopus Chromebooks they found, all of which were enrolled. I messed around with them, powerwashing & restarting a bunch, and ended up leaving them in my closet. A few days later I gave them back to my friend, and they were all unenrolled? I didn't bother looking into it for a while. But Scaretek had an idea to form a new exploiting group! And I remembered this thing I had found. So I pulled out one of my extra nissa Chromebooks to test, and... it was unenrolled. I remember how I \[october 1st] and ended up messing around in the OOBE for a while before putting it in my closet again. So I tried restarting once on the enrollment screen, waiting a day, and... it didn't work. I then tried restarting twice instead of once, checked it at midnight, and it actually worked this time!!
-![unenrolled](/Docs/Images/unenrolled.png) 
+![unenrolled](CRSH2TTY/Docs/Images/unenrolled.png) 
 I knew this meant something, so I tracked the time it took. 15 hours. I had to see how far I could get the time down. 4 hours and 8 hours didn't work, so I decided to try 10 hours, and...
 (wait until the 10 hours pass and I check it :3)
