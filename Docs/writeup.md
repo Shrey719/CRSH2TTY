@@ -5,15 +5,15 @@ I knew this meant something, so I tracked the time it took. 15 hours. This ended
 ![unenrolled](v124nissa2.jpg) 
 Then I decided to update from v124 to v127 (the current latest) to see if it worked, and tested it again. But was there a maximum amount of time? What if you were out for the day and didn't get a chance to check it?\
 So I left it out for 26 hours, and...\
-![[v127nissa.png]]
+![unenrolled](v127nissa.png)
 Okay, so it works on the latest version, but what about older versions?\
-![[v76peppy.png]]
+![unenrolled](v76peppy.png)
 Yep!! :3\
 It works on older Chromebooks too!\
 (even though on most of these you could just unenroll with unroll, but whatever)\
 So is this truly universal?\
 ...Probably. We'll never know until-\
-![[v31peppy.png]]
+![unenrolled](v31peppy.png)
 It works on v31. (You can tell it's unenrolled because of the "browse as Guest" button)
 So this is officially universal!\
 I needed a name. But what sounded good? CRSH2TTY is a funny name. It's pronounced "sea-are-shh-tootie". Plus, I could talk about it publicly and no one would think it's real! But why would I name it after a bad exploit? Well...\
