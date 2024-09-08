@@ -23,11 +23,10 @@ Let's start with CRSH1TTY. CRSH1TTY itself was *not* a good exploit at all. It r
 This means that, since it's always rolling, there's a non-zero chance you can hit a past code multiple times. It's *very* slow.\
 \
 Because of this, CRSH2TTY is a funny name. I could talk about it publicly and no one would think it's real!\
-And I feel like the name just *works*, due to both of them taking time to unenroll you. 15 hours itself isn't *that* bad considering you can do it on a weekend, but even though it's nowhere near as fast as other exploits, it's still a universal USB-less exploit.
+And I feel like the name just *works*, due to both of them taking time to unenroll you. 15 hours itself isn't *that* bad considering you can do it on a weekend, but even though it's nowhere near as fast as other exploits, it's still a universal USB-less exploit.\
 \
 But how does unenrollment occur? We don't know. There are a few theories:\
 -Flash Memory Decay\
 -Server-Side Bug\
--Corrupted Data\
+-Data Corruption (most likely)\
 If you want to read about these, go to [Theories](CRSH2TTY/Docs/theories)\
- 
