@@ -17,16 +17,16 @@ So is this truly universal?\
 It works on v31. (You can tell it's unenrolled because of the "browse as Guest" button)
 So this is officially universal!\
 \
-I needed a name. But what sounded good? CRSH2TTY is a funny name. It's pronounced "sea-are-shh-tootie". Plus, I could talk about it publicly and no one would think it's real! But why would I name it after a bad exploit? Well...\
-CRSH1TTY itself was *not* a good exploit at all. It required a near infinite amount of time due how it works:\
-3 codes get processed > Wait 10 secs > Roll code > Back to start\
+But why would you name it CRSH2TTY?\
+Let's start with CRSH1TTY. CRSH1TTY itself was *not* a good exploit at all. It required a near infinite amount of time due how it works:\
+3 codes get processed > Wait 10 secs > Roll code > Repeat indefinitely\
 This means that, since it's always rolling, there's a non-zero chance you can hit a past code multiple times. CRSH1TTY is very slow.\
 \
-Now, let's move on to CRSH2TTY. It's also slow, taking at least 15 hours, which isn't *that* bad considering you can do it on a weekend or in your last period at school, but it's nowhere near as fast as other exploits, however, it's also a *universal*, *USB-less* exploit that works on *all* versions, *and* supports re-enrollment.\
+Because of this, CRSH2TTY is a funny name - and for the fact it's pronounced "sea-are-shh-tootie". Plus, I could talk about it publicly and no one would think it's real! I feel like the name just *works*, due to CRSH1TTY taking at least 19k years to perform and CRSH2TTY taking at least 15 hours to perform. And 15 hours isn't *that* bad considering you can do it on a weekend, but even though it's nowhere near as fast as other exploits, it's  still a *universal*, *USB-less* exploit that works on *all* versions, *and* supports re-enrollment.\
 "Universal" in this sense means that it works on *every* Chromebook *ever made*.\
 "USB-less" in this sense means that it does not require a USB drive to use. This is a big deal because a lot of Chromebooks have their recovery keys rolled, so they can't boot shims.\
 \
-But how does unenrollment occur? We don't know. There are 3 leading theories:\
+But how does unenrollment occur? We don't know. There are a few theories:\
 -Flash Memory Decay\
 -Server-Side Bug\
 -Corrupted Data\
