@@ -1,19 +1,19 @@
 # Writeup 
 I had an extra Chromebook that my friend wanted. However, it was keyrolled and on v128. So how do I unenroll it? I didn't know either, so I messed around in the OOBE for a while before putting it in my closet again. A while later, Hazel had the idea for a new exploit group. So I dug it out of my closet, and... it was unenrolled? I hoped this wasn't a one-off thing. I re-enrolled it and kept testing. After trial and error, I realized you needed to restart once before turning it off, and...\
-![unenrolled](images/v124nissa.png) 
+![unenrolled1](Images/v124nissa.png) 
 I knew this meant something, so I tracked the time it took. 15 hours. This ended up being the minimum amount of time required after a few days of testing, but just to make sure I tested it with 15 again, and...\
-![unenrolled](images/v124nissa2.jpg) 
+![unenrolled2](Images/v124nissa2.jpg) 
 Then I decided to update from v124 to v127 (the current latest) to see if it worked, and tested it again. But was there a maximum amount of time? What if you were out for the day and didn't get a chance to check it?\
 So I left it out for 26 hours, and...\
-![unenrolled](images/v127nissa.png)
+![unenrolled3](Images/v127nissa.png)
 Okay, so it works on the latest version, but what about older versions?\
-![unenrolled](images/v76peppy.png)
+![unenrolled4](Images/v76peppy.png)
 Yep!! :3\
 It works on older Chromebooks too!\
 (even though on most of these you could just unenroll with unroll, but whatever)\
 So is this truly universal?\
 ...Probably. We'll never know until-\
-![unenrolled](images/v31peppy.png)
+![unenrolled5](Images/v31peppy.png)
 It works on v31. (You can tell it's unenrolled because of the "browse as Guest" button)
 So this is officially universal!\
 I needed a name. But what sounded good? CRSH2TTY is a funny name. It's pronounced "sea-are-shh-tootie". Plus, I could talk about it publicly and no one would think it's real! But why would I name it after a bad exploit? Well...\
