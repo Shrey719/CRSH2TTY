@@ -8,5 +8,5 @@ chromeOS is kinda held together by birch wood & rusty nails. It's safe to assume
 Also this doesn't explain the 2-second wait
 
 4. Enrollment data corruption\
-You *need* to wait 2 seconds each time, or it won't work. This might mean that it tries to get some data, but mismatches two sets of data effectively making it corrupted. Then, when it tries to enroll, it sees this data already here, and just... gives up. This explains the 2-second wait, but not how you have to leave it for at least 15 hours.
+You *need* to wait 2 seconds each time, or it won't work. This might mean that it tries to get some data, but mismatches two sets of data effectively making it corrupted. Then, when it tries to enroll, it sees this data already here, and just... gives up. This explains the 2-second wait, but not how you have to leave it for at least 15 hours.\
 v127nissa.png shows the colors to be blue. The colors are supposed to be orange. Blue is the default color that my district uses for its login screen, which supports this theory.
