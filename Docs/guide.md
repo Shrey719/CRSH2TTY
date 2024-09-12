@@ -3,4 +3,4 @@
 	1. When it starts to enroll, wait 2 seconds then restart by pressing `power + refresh`
 3. When it starts to enroll again, wait 2 seconds and press `esc + power + refresh` then `power` to turn it off
 4. Leave it off for ***at least*** 15 hours
-5. When you turn it on, it should look like [this](https://github.com/username/repository/raw/main/Docs/Media/v128nissa.mp4) or something similar
+5. When you turn it on, it should look like [this](https://github.com/kuromuiroha/CRSH2TTY/raw/main/Docs/Media/v128nissa.mp4) or something similar
