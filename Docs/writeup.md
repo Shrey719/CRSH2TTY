@@ -28,5 +28,5 @@ And I feel like the name just *works*, due to both of them taking time to unenro
 But how does unenrollment occur? We don't know. There are a few theories:\
 \- Flash memory decay\
 \- Server-side bug\
-\- Enrollment data corruption
-If you want to read about these, go to [Theories](CRSH2TTY/Docs/theories)\
+\- Enrollment data corruption\
+If you want to read about these, go to [Theories](CRSH2TTY/Docs/theories)
