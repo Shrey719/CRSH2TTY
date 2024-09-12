@@ -1,10 +1,12 @@
 !!! this page will be removed once we figure out what's going on !!!
 
-1. Flash Memory Decay\
+1. Flash memory decay\
 Flash memory can decay under certain conditions - but none that the Chromebook will ever be in, so let's not even bother considering this one,
 
-2. Server-Side Bug\
+2. Server-side bug\
 chromeOS is kinda held together by birch wood & rusty nails. It's safe to assume that the server-side components were made the same way. There's a chance that the server has a "fallback mode" where if the Chromebook doesn't communicate with it for 15 hours, it'll just unenroll you, but why even have a fallback mode in the first place?
+Also this doesn't explain the 2-second wait
 
-4. Corrupted data\
+4. Enrollment data corruption\
 You *need* to wait 2 seconds each time, or it won't work. This might mean that it tries to get some data, but mismatches two sets of data effectively making it corrupted. Then, when it tries to enroll, it sees this data already here, and just... gives up. This explains the 2-second wait, but not how you have to leave it for at least 15 hours.
+v127nissa.png shows the colors to be blue. The colors are supposed to be orange. Blue is the default color that my district uses for its login screen, which supports this theory.
