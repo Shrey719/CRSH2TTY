@@ -7,7 +7,7 @@ CRSH2TTY is a universal unenrollment exploit created by [@kelpseastem](https://g
 original discovery & testing & writing docs - [@kelpseastem](https://github.com/kelpseastem)
 
 idea for & founder of kuromuiroha - [@Entrpix](https://github.com/entrpix)
-### Original kajig
+# Original kajig
 CRSH2TTY is a universal unenrollment exploit created by @kelpseastem and @scaratech.
 ##  How do I do it?
 1. Powerwash
