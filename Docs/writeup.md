@@ -1,5 +1,5 @@
 # Writeup 
-I had an extra Chromebook that my friend wanted. However, it was keyrolled and on v128. So how do I unenroll it? I didn't know either, so I messed around in the OOBE for a while before putting it in my closet again. A while later, Hazel had the idea for a new exploit group. So I dug it out of my closet, and... it was unenrolled? I hoped this wasn't a one-off thing. I re-enrolled it and kept testing. After trial and error, I realized you needed to restart once before turning it off, and...\
+I had an extra Chromebook that my friend wanted. However, it was keyrolled and on v124. So how do I unenroll it? I didn't know either, so I messed around in the OOBE for a while before putting it in my closet again. A while later, Hazel had the idea for a new exploit group. So I dug it out of my closet, and... it was unenrolled? I hoped this wasn't a one-off thing. I re-enrolled it and kept testing. After trial and error, I realized you needed to restart once before turning it off, and...\
 ![unenrolled1](Media/v124nissa.png) 
 I knew this meant something, so I tracked the time it took. 15 hours. This ended up being the minimum amount of time required after a few days of testing, but just to make sure I tested it with 15 again, and...\
 ![unenrolled2](Media/v124nissa2.jpg) 
