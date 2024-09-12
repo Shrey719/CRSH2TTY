@@ -4,4 +4,4 @@
 3. When it starts to enroll again, wait 2 seconds and press `esc + power + refresh` then `power` to turn it off
 4. Leave it off for ***at least*** 15 hours
 5. This (or something similar to it) should happen when you turn it back on:\
-![unenrolledvideo](Media/v128nissa.mp4)
+![unenrolledvideo](Media/v128nissa.mp4](https://github.com/kuromuiroha/CRSH2TTY/raw/main/Docs/Media/v128nissa.mp4)
