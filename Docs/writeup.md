@@ -26,7 +26,7 @@ Because of this, CRSH2TTY is a funny name. I could talk about it publicly and no
 And I feel like the name just *works*, due to both of them taking time to unenroll you. 15 hours itself isn't *that* bad considering you can do it on a weekend, but even though it's nowhere near as fast as other exploits, it's still a universal USB-less exploit.\
 \
 But how does unenrollment occur? We don't know. There are a few theories:\
--Flash memory decay\
--Server-side bug\
--Enrollment data corruption
+\- Flash memory decay\
+\- Server-side bug\
+\- Enrollment data corruption
 If you want to read about these, go to [Theories](CRSH2TTY/Docs/theories)\
