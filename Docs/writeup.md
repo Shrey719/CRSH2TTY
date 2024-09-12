@@ -9,13 +9,13 @@ So I left it out for 26 hours, and...\
 Okay, so it works on the latest version, but what about older versions?\
 ![unenrolled4](Media/v76peppy.png)
 Yep!! :3\
-It works on older Chromebooks too!\
+It works on older versions (and older Chromebooks) too!\
 (even though on most of these you could just unenroll with unroll, but whatever)\
 So is this truly universal?\
 ...Probably. We'll never know until-\
 ![unenrolled5](Media/v31peppy.png)
-It works on v31. (You can tell it's unenrolled because of the "browse as Guest" button)
-So this is officially universal!\
+It works on v31!!! :3 (You can tell it's unenrolled because of the "browse as Guest" button)
+So this is officially universal! >w<\
 \
 But why name it CRSH2TTY?\
 Let's start with CRSH1TTY. CRSH1TTY itself was *not* a good exploit at all. It required a near infinite amount of time due how it works:\
