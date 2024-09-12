@@ -23,4 +23,4 @@ Probably
 ## Was this made by Whelement 2?
 It's actually made by Whelement 3!!!! https://discord.gg/kuromuiroha
 ## It doesn't work!!!!
-Join our Discord server for support!!!!! :small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down:
+Join our Discord server for support!!!!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^
