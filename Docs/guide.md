@@ -3,5 +3,4 @@
 	1. When it starts to enroll, wait 2 seconds then restart by pressing `power + refresh`
 3. When it starts to enroll again, wait 2 seconds and press `esc + power + refresh` then `power` to turn it off
 4. Leave it off for ***at least*** 15 hours
-5. This (or something similar to it) should happen when you turn it back on:\
-<iframe width="560" height="315" src="https://github.com/kuromuiroha/CRSH2TTY/raw/main/Docs/Media/v128nissa.mp4" frameborder="0" allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5. When you turn it on, it should look like [this](https://github.com/username/repository/raw/main/Docs/Media/v128nissa.mp4) or something similar
