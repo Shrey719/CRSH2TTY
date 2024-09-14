@@ -21,7 +21,7 @@ CRSH2TTY is a universal unenrollment method, created by [@kelpseastem](https://g
 Why not?
 ## Is this patchable?
 Probably
-## Was this made by Whelement 2?
-It's actually made by Whelement 3!!!! https://discord.gg/2aPZREdn4y
+## New exploit group?
+Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! https://discord.gg/2aPZREdn4y
 ## It doesn't work!!!!
 Join our Discord server for support!!!!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^
